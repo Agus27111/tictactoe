@@ -4,14 +4,14 @@
   "private": true,
   "dependencies": {
     "classnames": "2.2.6",
-    "prop-types": "15.7.2",
-    "react": "^17.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

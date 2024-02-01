@@ -1,0 +1,26 @@
+.form {
+  display: flex;
+  margin-bottom: 20px;
+}
+.input {
+  flex: 1;
+  margin-right: 8px;
+  box-shadow: var(--nain-box-shadow);
+  border: none;
+  border-radius: 6px;
+  padding: 10px;
+  color: var(--main-font-color);
+  font-size: 16px;
+  font-weight: 600;
+}
+.addButton {
+  border: none;
+  border-radius: 6px;
+  color: var(--secondary-font-color);
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 80px;
+  background-color: var(--main-background-color);
+  box-shadow: var(--main-box-shadow);
+}

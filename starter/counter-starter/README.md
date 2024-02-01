@@ -13,3 +13,9 @@
 - CSS Module dan dynamic className dengan classnames
 
 &copy; wegodev | version 1.1.0
+
+cara belajar!
+
+
+1. Selasa, 30 Jan 2024 baru selesai di video 15.
+2.
